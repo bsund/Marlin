@@ -2,7 +2,7 @@
 
 **This branch is for the Creality CR-6 SE with Big Tree Tech SKR-CR-6 motherboard and the stock Creality CR-6 LCD touch screen**
 
-_For other configurations for the Creality CR-6 printer (like BigTreeTech SKR board and optional BTT TFT v3.0 display - please check the [branches and development section](#development-and-compile-it-yourself) section below._
+_For other configurations for the Creality CR-6 printer (please check the [branches and development section](#development-and-compile-it-yourself) section below._
 
 ## Downloads
 
